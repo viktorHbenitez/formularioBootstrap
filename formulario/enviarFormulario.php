@@ -24,9 +24,9 @@ $mail->SMTPDebug  = 0;
 $mail->SMTPAuth   = true;
 $mail->SMTPSecure = "ssl";
 $mail->Host       = "mediomaratondepuebla.com";
-$mail->Port       = 26;
-$mail->Username   = "correo@envia.com";
-$mail->Password   = "passwordDelCorreo";
+$mail->Port       = 25;
+$mail->Username   = "admin@mediomaratondepuebla.com";
+$mail->Password   = "Victor123#";
 $mail->CharSet    = 'UTF-8';
 $mail->IsSMTP();
 
@@ -37,7 +37,7 @@ $mail->IsSMTP();
  *
  * Podemos colocar varios destinatarios
  */
-$mail->From     = "correo@envia.com";
+$mail->From     = "admin@mediomaratondepuebla.com";
 $mail->FromName = "Formulario de Ejemplo";
 $mail->AddAddress("ismaharo18@gmail.com");
 $mail->AddAddress("blackmaxxgdl18@hotmail.com");
@@ -90,13 +90,13 @@ if($mail->Send())
 {
     echo'<script type="text/javascript">
             alert("Enviado Correctamente");
-            window.location="http://tejasdebarrolapusa.com/"
+            window.location=""
          </script>';
 }
 else{
     echo'<script type="text/javascript">
             alert("NO ENVIADO, intentar de nuevo");
-            window.location="http://tejasdebarrolapusa.com/"
+            window.location=""
          </script>';
 }
 
