@@ -1,0 +1,200 @@
+[14-Jan-2017 22:56:09 Etc/GMT] PHP Fatal error:  Class 'SMTP' not found in /home/cenetoat/public_html/formulario_sago/class.phpmailer.php on line 1520
+[21-Jan-2017 04:38:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/cenetoat/public_html/formulario_sago/formulario.php on line 35
+[21-Jan-2017 04:43:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '$Apellidos' (T_VARIABLE) in /home/cenetoat/public_html/formulario_sago/formulario.php on line 35
+[07-Feb-2017 17:48:05 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 17:48:05 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 17:48:05 Etc/GMT] PHP Notice:  Undefined variable: Nombres in /home/tejaspm6/public_html/formulario/formulario.php on line 38
+[07-Feb-2017 17:48:05 Etc/GMT] PHP Notice:  Undefined variable: Apellidos in /home/tejaspm6/public_html/formulario/formulario.php on line 38
+[07-Feb-2017 17:48:05 Etc/GMT] PHP Notice:  Undefined variable: Correo in /home/tejaspm6/public_html/formulario/formulario.php on line 38
+[07-Feb-2017 17:48:05 Etc/GMT] PHP Notice:  Undefined variable: tel in /home/tejaspm6/public_html/formulario/formulario.php on line 38
+[07-Feb-2017 17:51:52 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 17:51:52 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 17:51:52 Etc/GMT] PHP Notice:  Undefined variable: Nombres in /home/tejaspm6/public_html/formulario/formulario.php on line 38
+[07-Feb-2017 17:51:52 Etc/GMT] PHP Notice:  Undefined variable: Apellidos in /home/tejaspm6/public_html/formulario/formulario.php on line 38
+[07-Feb-2017 17:51:52 Etc/GMT] PHP Notice:  Undefined variable: Correo in /home/tejaspm6/public_html/formulario/formulario.php on line 38
+[07-Feb-2017 17:51:52 Etc/GMT] PHP Notice:  Undefined variable: tel in /home/tejaspm6/public_html/formulario/formulario.php on line 38
+[07-Feb-2017 17:53:31 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 17:53:31 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 17:53:31 Etc/GMT] PHP Notice:  Undefined variable: Nombres in /home/tejaspm6/public_html/formulario/formulario.php on line 39
+[07-Feb-2017 17:53:31 Etc/GMT] PHP Notice:  Undefined variable: Apellidos in /home/tejaspm6/public_html/formulario/formulario.php on line 39
+[07-Feb-2017 17:53:31 Etc/GMT] PHP Notice:  Undefined variable: Correo in /home/tejaspm6/public_html/formulario/formulario.php on line 39
+[07-Feb-2017 17:53:31 Etc/GMT] PHP Notice:  Undefined variable: tel in /home/tejaspm6/public_html/formulario/formulario.php on line 39
+[07-Feb-2017 17:56:25 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 17:56:25 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 17:59:52 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 17:59:52 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 17:59:52 Etc/GMT] PHP Notice:  Undefined variable: msg in /home/tejaspm6/public_html/formulario/formulario.php on line 39
+[07-Feb-2017 18:33:37 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 18:33:37 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 18:35:55 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 18:35:55 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 18:38:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '$apellidos' (T_VARIABLE) in /home/tejaspm6/public_html/formulario/formulario.php on line 40
+[07-Feb-2017 18:38:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '$apellidos' (T_VARIABLE) in /home/tejaspm6/public_html/formulario/formulario.php on line 40
+[07-Feb-2017 18:38:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '$apellidos' (T_VARIABLE) in /home/tejaspm6/public_html/formulario/formulario.php on line 40
+[07-Feb-2017 18:59:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 50
+[07-Feb-2017 19:00:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '$apellidos' (T_VARIABLE) in /home/tejaspm6/public_html/formulario/formulario.php on line 40
+[07-Feb-2017 19:01:39 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 49
+[07-Feb-2017 19:02:21 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 19:02:21 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 19:03:41 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 19:03:41 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 19:07:33 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 19:07:33 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 19:17:27 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 19:17:27 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 19:17:27 Etc/GMT] PHP Notice:  Undefined variable: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[07-Feb-2017 19:22:02 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 19:22:02 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 19:22:27 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 19:22:27 Etc/GMT] PHP Notice:  Undefined index: lapusalist in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 19:28:39 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 19:28:39 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 20:23:04 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 20:23:04 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 20:23:04 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 20:23:04 Etc/GMT] PHP Notice:  Undefined variable: cervezas in /home/tejaspm6/public_html/formulario/formulario.php on line 51
+[07-Feb-2017 20:27:57 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 20:27:57 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 20:27:57 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 20:27:57 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 51
+[07-Feb-2017 20:27:57 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/tejaspm6/public_html/formulario/formulario.php on line 51
+[07-Feb-2017 20:55:25 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 20:55:25 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 20:55:25 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 20:55:25 Etc/GMT] PHP Notice:  Undefined index: producto[0] in /home/tejaspm6/public_html/formulario/formulario.php on line 30
+[07-Feb-2017 21:01:50 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 21:01:50 Etc/GMT] PHP Notice:  Undefined index: producto[0] in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 21:01:50 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 21:06:59 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 21:06:59 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 21:06:59 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 21:06:59 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[07-Feb-2017 21:08:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '$selectOption' (T_VARIABLE) in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[07-Feb-2017 21:08:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '$selectOption' (T_VARIABLE) in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[07-Feb-2017 21:09:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '$selectOption' (T_VARIABLE) in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[07-Feb-2017 21:10:35 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 50
+[07-Feb-2017 21:11:25 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 21:11:25 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 21:11:25 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 21:11:25 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[07-Feb-2017 21:14:50 Etc/GMT] PHP Notice:  Undefined index: name in /home/tejaspm6/public_html/formulario/formulario.php on line 7
+[07-Feb-2017 21:14:50 Etc/GMT] PHP Notice:  Undefined index: apellidos in /home/tejaspm6/public_html/formulario/formulario.php on line 8
+[07-Feb-2017 21:14:50 Etc/GMT] PHP Notice:  Undefined index: email in /home/tejaspm6/public_html/formulario/formulario.php on line 9
+[07-Feb-2017 21:14:50 Etc/GMT] PHP Notice:  Undefined index: empresa in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[07-Feb-2017 21:14:50 Etc/GMT] PHP Notice:  Undefined index: telmovil in /home/tejaspm6/public_html/formulario/formulario.php on line 11
+[07-Feb-2017 21:14:50 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 21:14:50 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 21:14:50 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 21:14:50 Etc/GMT] PHP Notice:  Undefined index: municipio in /home/tejaspm6/public_html/formulario/formulario.php on line 15
+[07-Feb-2017 21:14:50 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[07-Feb-2017 21:21:51 Etc/GMT] PHP Notice:  Undefined index: name in /home/tejaspm6/public_html/formulario/formulario.php on line 7
+[07-Feb-2017 21:21:51 Etc/GMT] PHP Notice:  Undefined index: apellidos in /home/tejaspm6/public_html/formulario/formulario.php on line 8
+[07-Feb-2017 21:21:51 Etc/GMT] PHP Notice:  Undefined index: email in /home/tejaspm6/public_html/formulario/formulario.php on line 9
+[07-Feb-2017 21:21:51 Etc/GMT] PHP Notice:  Undefined index: empresa in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[07-Feb-2017 21:21:51 Etc/GMT] PHP Notice:  Undefined index: telmovil in /home/tejaspm6/public_html/formulario/formulario.php on line 11
+[07-Feb-2017 21:21:51 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 21:21:51 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 21:21:51 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 21:21:51 Etc/GMT] PHP Notice:  Undefined index: municipio in /home/tejaspm6/public_html/formulario/formulario.php on line 15
+[07-Feb-2017 21:21:51 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[07-Feb-2017 21:36:46 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[07-Feb-2017 21:36:46 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[07-Feb-2017 21:36:46 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[07-Feb-2017 21:36:46 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined index: name in /home/tejaspm6/public_html/formulario/formulario.php on line 7
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined index: apellidos in /home/tejaspm6/public_html/formulario/formulario.php on line 8
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined index: email in /home/tejaspm6/public_html/formulario/formulario.php on line 9
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined index: empresa in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined index: telmovil in /home/tejaspm6/public_html/formulario/formulario.php on line 11
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined index: municipio in /home/tejaspm6/public_html/formulario/formulario.php on line 15
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined index: mensaje in /home/tejaspm6/public_html/formulario/formulario.php on line 16
+[08-Feb-2017 14:43:48 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[08-Feb-2017 15:00:04 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[08-Feb-2017 15:00:04 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[08-Feb-2017 15:00:04 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[08-Feb-2017 15:00:04 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[08-Feb-2017 15:30:52 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[08-Feb-2017 15:30:52 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[08-Feb-2017 15:30:52 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[08-Feb-2017 15:30:52 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[08-Feb-2017 15:31:15 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 12
+[08-Feb-2017 15:31:15 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[08-Feb-2017 15:31:15 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[08-Feb-2017 15:31:15 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[08-Feb-2017 15:58:49 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[08-Feb-2017 16:10:54 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[08-Feb-2017 16:11:18 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[08-Feb-2017 16:11:41 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[08-Feb-2017 16:11:43 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[08-Feb-2017 16:11:53 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[08-Feb-2017 16:12:57 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[08-Feb-2017 16:13:42 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[08-Feb-2017 16:13:44 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[08-Feb-2017 16:13:46 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tejaspm6/public_html/formulario/formulario.php on line 48
+[08-Feb-2017 16:15:17 Etc/GMT] PHP Notice:  Undefined variable: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 45
+[08-Feb-2017 16:34:37 Etc/GMT] PHP Parse error:  syntax error, unexpected 'width' (T_STRING) in /home/tejaspm6/public_html/formulario/formulario.php on line 37
+[08-Feb-2017 18:10:40 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[08-Feb-2017 18:10:40 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[08-Feb-2017 18:10:40 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[08-Feb-2017 18:56:31 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[08-Feb-2017 18:56:31 Etc/GMT] PHP Notice:  Undefined index: producto in /home/tejaspm6/public_html/formulario/formulario.php on line 13
+[08-Feb-2017 18:56:31 Etc/GMT] PHP Notice:  Undefined index: estados in /home/tejaspm6/public_html/formulario/formulario.php on line 14
+[09-Feb-2017 02:43:33 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[09-Feb-2017 02:43:57 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[09-Feb-2017 04:46:27 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[09-Feb-2017 17:16:55 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[09-Feb-2017 18:07:25 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[10-Feb-2017 02:02:35 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[10-Feb-2017 02:45:21 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[10-Feb-2017 05:07:12 Etc/GMT] PHP Notice:  Undefined index: telefono in /home/tejaspm6/public_html/formulario/formulario.php on line 10
+[15-Feb-2017 07:22:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tejaspm6/public_html/formulario/formulario.php on line 41
+[22-Feb-2017 20:15:17 Etc/GMT] PHP Notice:  Undefined index: name in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 9
+[22-Feb-2017 20:15:17 Etc/GMT] PHP Notice:  Undefined index: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 10
+[22-Feb-2017 20:15:17 Etc/GMT] PHP Notice:  Undefined index: email in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 11
+[22-Feb-2017 20:15:17 Etc/GMT] PHP Notice:  Undefined index: thea in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 12
+[22-Feb-2017 20:15:17 Etc/GMT] PHP Notice:  Undefined index: area in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 13
+[22-Feb-2017 20:15:17 Etc/GMT] PHP Notice:  Undefined index: pieces in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 14
+[22-Feb-2017 20:15:17 Etc/GMT] PHP Notice:  Undefined index: weight in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 15
+[22-Feb-2017 20:15:17 Etc/GMT] PHP Notice:  Undefined index: comments in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 16
+[22-Feb-2017 20:15:17 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 64
+[30-Mar-2017 19:35:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tejaspm6/public_html/formulario/formulario.php on line 41
+[01-Apr-2017 17:21:41 Etc/GMT] PHP Notice:  Undefined index: name in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 9
+[01-Apr-2017 17:21:41 Etc/GMT] PHP Notice:  Undefined index: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 10
+[01-Apr-2017 17:21:41 Etc/GMT] PHP Notice:  Undefined index: email in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 11
+[01-Apr-2017 17:21:41 Etc/GMT] PHP Notice:  Undefined index: thea in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 12
+[01-Apr-2017 17:21:41 Etc/GMT] PHP Notice:  Undefined index: area in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 13
+[01-Apr-2017 17:21:41 Etc/GMT] PHP Notice:  Undefined index: pieces in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 14
+[01-Apr-2017 17:21:41 Etc/GMT] PHP Notice:  Undefined index: weight in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 15
+[01-Apr-2017 17:21:41 Etc/GMT] PHP Notice:  Undefined index: comments in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 16
+[01-Apr-2017 17:21:41 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 64
+[01-Apr-2017 17:21:57 Etc/GMT] PHP Notice:  Undefined index: name in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 9
+[01-Apr-2017 17:21:57 Etc/GMT] PHP Notice:  Undefined index: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 10
+[01-Apr-2017 17:21:57 Etc/GMT] PHP Notice:  Undefined index: email in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 11
+[01-Apr-2017 17:21:57 Etc/GMT] PHP Notice:  Undefined index: thea in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 12
+[01-Apr-2017 17:21:57 Etc/GMT] PHP Notice:  Undefined index: area in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 13
+[01-Apr-2017 17:21:57 Etc/GMT] PHP Notice:  Undefined index: pieces in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 14
+[01-Apr-2017 17:21:57 Etc/GMT] PHP Notice:  Undefined index: weight in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 15
+[01-Apr-2017 17:21:57 Etc/GMT] PHP Notice:  Undefined index: comments in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 16
+[01-Apr-2017 17:21:57 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 64
+[01-Apr-2017 17:27:27 Etc/GMT] PHP Notice:  Undefined index: name in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 9
+[01-Apr-2017 17:27:27 Etc/GMT] PHP Notice:  Undefined index: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 10
+[01-Apr-2017 17:27:27 Etc/GMT] PHP Notice:  Undefined index: email in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 11
+[01-Apr-2017 17:27:27 Etc/GMT] PHP Notice:  Undefined index: thea in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 12
+[01-Apr-2017 17:27:27 Etc/GMT] PHP Notice:  Undefined index: area in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 13
+[01-Apr-2017 17:27:27 Etc/GMT] PHP Notice:  Undefined index: pieces in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 14
+[01-Apr-2017 17:27:27 Etc/GMT] PHP Notice:  Undefined index: weight in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 15
+[01-Apr-2017 17:27:27 Etc/GMT] PHP Notice:  Undefined index: comments in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 16
+[01-Apr-2017 17:27:27 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 64
+[04-Apr-2017 19:08:18 Etc/GMT] PHP Notice:  Undefined index: name in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 9
+[04-Apr-2017 19:08:18 Etc/GMT] PHP Notice:  Undefined index: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 10
+[04-Apr-2017 19:08:18 Etc/GMT] PHP Notice:  Undefined index: email in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 11
+[04-Apr-2017 19:08:18 Etc/GMT] PHP Notice:  Undefined index: thea in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 12
+[04-Apr-2017 19:08:18 Etc/GMT] PHP Notice:  Undefined index: area in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 13
+[04-Apr-2017 19:08:18 Etc/GMT] PHP Notice:  Undefined index: pieces in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 14
+[04-Apr-2017 19:08:18 Etc/GMT] PHP Notice:  Undefined index: weight in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 15
+[04-Apr-2017 19:08:18 Etc/GMT] PHP Notice:  Undefined index: comments in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 16
+[04-Apr-2017 19:08:18 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 64
+[08-Apr-2017 01:37:09 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/tejaspm6/public_html/formulario/formularioCotizador.php on line 65

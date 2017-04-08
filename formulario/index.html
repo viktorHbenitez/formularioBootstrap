@@ -1,0 +1,103 @@
+<!doctype html>
+
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" media="all" href="estilos.css">
+</head>
+<body>
+  <form action="formulario.php" id="formularioRegistro" name="formularioRegistro" method="post">
+    <div class="login-block">
+        <p class="texto">Nombre completo*</p>
+        <div class="columnaNombre">
+          <input type="text" value="" placeholder="Nombres" name="name" />
+        </div>
+        <div class="columnaNombre">
+          <input type="text" value="" placeholder="Apellidos" name="apellidos" />
+        </div>
+        <div class="columnaNombre">
+          <p class="texto">Teléfono Móvil</p>
+          <input type="text" value="" placeholder="Teléfono movil" name="telmovil" />
+        </div>
+        <div class="columnaNombre">
+          <p class="texto">Teléfono* </p>
+          <div class="texto">
+            <input type="text" maxlength="7" value="" placeholder="Teléfono" name="telefono" />
+          </div>
+        </div>
+        <div class="columnaFull">
+          <p class="texto">Correo Eletrónico</p>
+          <input type="text" value="" placeholder="Tu correo eletrónico" name="email" />
+        </div>
+        <div class="columnaFull">
+          <p class="texto">Empresa*</p>
+          <input type="text" value="" placeholder="Nombre de su empresa" name="empresa" />
+        </div>
+        <div class="columnaFull">
+          <p class="texto">Productos de Interes*</p>
+          <select name="producto" form="formularioRegistro">
+            <option value="Caña">Media Caña</option>
+            <option value="Recta">Recta</option>
+            <option value="Ala36">Ala 36</option>
+            <option value="Guadalajara">Guadalajara</option>
+            <option value="Ala28">Ala 28</option>
+            <option value="Ala45">Ala 45</option>
+            <option value="Arabe">Arabe</option>
+            <option value="Ala30">Ala 30</option>
+            <option value="Loceta30x30">Loceta 30x30</option>
+          </select>
+        </div>
+        <div class="columnaNombre">
+          <p class="texto">Estado</p>
+          <select name="estados" form="formularioRegistro">
+            <option value="Todo México">Todo México</option>
+            <option value="Aguascalientes">Aguascalientes</option>
+            <option value="Baja California">Baja California</option>
+            <option value="Baja California Sur">Baja California Sur</option>
+            <option value="Campeche">Campeche</option>
+            <option value="Coahuila de Zaragoza">Coahuila de Zaragoza</option>
+            <option value="Colima">Colima</option>
+            <option value="Chiapas">Chiapas</option>
+            <option value="Chihuahua">Chihuahua</option>
+            <option value="Distrito Federal">Distrito Federal</option>
+            <option value="Durango">Durango</option>
+            <option value="Guanajuato">Guanajuato</option>
+            <option value="Guerrero">Guerrero</option>
+            <option value="Hidalgo">Hidalgo</option>
+            <option value="Jalisco">Jalisco</option>
+            <option value="México">México</option>
+            <option value="Michoacán de Ocampo">Michoacán de Ocampo</option>
+            <option value="Morelos">Morelos</option>
+            <option value="Nayarit">Nayarit</option>
+            <option value="Nuevo León">Nuevo León</option>
+            <option value="Oaxaca">Oaxaca</option>
+            <option value="Puebla">Puebla</option>
+            <option value="Querétaro">Querétaro</option>
+            <option value="Quintana Roo">Quintana Roo</option>
+            <option value="San Luis Potosí">San Luis Potosí</option>
+            <option value="Sinaloa">Sinaloa</option>
+            <option value="Sonora">Sonora</option>
+            <option value="Tabasco">Tabasco</option>
+            <option value="Tamaulipas">Tamaulipas</option>
+            <option value="Tlaxcala">Tlaxcala</option>
+            <option value="Veracruz de Ignacio de la Llave">Veracruz de Ignacio de la Llave</option>
+            <option value="Yucatán">Yucatán</option>
+            <option value="Zacatecas">Zacatecas</option>
+          </select>
+        </div>
+        <div class="columnaNombre">
+          <p class="texto">Municipio </p>
+          <div class="texto">
+            <input type="text" maxlength="7" value="" placeholder="Municipio" name="municipio" />
+          </div>
+        </div>
+        <div class="columnaFull">
+          <p class="texto">Mensaje*</p>
+          <textarea name="mensaje" id="mensaje"></textarea>
+        </div>
+        <input class="button" type="submit">
+    </div>
+  </form>
+</body>
+</html>
