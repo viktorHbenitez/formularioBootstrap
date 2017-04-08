@@ -19,16 +19,18 @@ $mensaje = $_POST['mensaje'];
  * Configurando correo desde el cual enviaremos
  * Configurando contraseña del correo desde el cual enviaremos
  */
-$mail             = new PHPMailer();
+
+try {
+$mail             = new PHPMailer(true);
+$mail->IsSMTP();
 $mail->SMTPDebug  = 0;
 $mail->SMTPAuth   = true;
 $mail->SMTPSecure = "ssl";
 $mail->Host       = "mediomaratondepuebla.com";
-$mail->Port       = 25;
+$mail->Port       = 465;
 $mail->Username   = "admin@mediomaratondepuebla.com";
 $mail->Password   = "Victor123#";
 $mail->CharSet    = 'UTF-8';
-$mail->IsSMTP();
 
 
 /*
@@ -86,18 +88,17 @@ $mail->MsgHTML($template);
 /*
  * Enviamos el email
  */
-if($mail->Send())
-{
-    echo'<script type="text/javascript">
-            alert("Enviado Correctamente");
-            window.location=""
-         </script>';
-}
-else{
-    echo'<script type="text/javascript">
-            alert("NO ENVIADO, intentar de nuevo");
-            window.location=""
-         </script>';
+$mail->Send();
+
+echo'<script type="text/javascript">
+        alert("Enviado Correctamente");
+        window.location="/"
+     </script>';
+
+} catch (phpmailerException $e) {
+  echo $e->errorMessage(); //Pretty error messages from PHPMailer
+} catch (Exception $e) {
+  echo $e->getMessage(); //Boring error messages from anything else!
 }
 
 ?>
